@@ -5,5 +5,6 @@ public abstract class Shape {
 	private int x, y;
 
 	public String color = "Turquoise";
+	public String color_galvin = "black";
   
 }

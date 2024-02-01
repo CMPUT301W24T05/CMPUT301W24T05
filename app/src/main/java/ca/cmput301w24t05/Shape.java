@@ -1,5 +1,5 @@
-public class Shape(){
+public class Shape {
 
-	private int x,y;
+	private int x, y;
 
 }

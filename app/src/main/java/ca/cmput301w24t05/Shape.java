@@ -1,9 +1,9 @@
 package ca.cmput301w24t05;
 
-public class Shape {
+public abstract class Shape {
 
 	private int x, y;
 
-	String color = "magenta";
-
+	public String color = "Turquoise";
+  
 }
